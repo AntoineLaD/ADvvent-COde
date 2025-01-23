@@ -1,1 +1,7 @@
+
 *.c linguist-language=C
+
+
+docs/* linguist-vendored
+*.man linguist-vendored
+
